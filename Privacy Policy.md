@@ -28,7 +28,7 @@ We value your trust in providing us this information, thus we are striving to us
 
 ## Children's Privacy
 
-Our Services do not address anyone under the age of 13. We do not knowingly collect any information from children under 13, and any information we do collect is not personably identifiable in any case. If we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
+Our Services do not address anyone under the age of 13. We do not knowingly collect any information from children under 13, and any information we do collect is not personally identifiable in any case. If we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.
 
 ## Changes to This Privacy Policy
 
