@@ -5,9 +5,9 @@ Welcome to LapSplit! These Terms and Conditions outline the rules and regulation
 
 Our Terms and Conditions were created with the help of the [Terms & Conditions Generator](https://www.privacypolicyonline.com/terms-conditions-generator/). It is also based on a template from Docular ([https://seqlegal.com/free-legal-documents/website-terms-and-conditions](https://seqlegal.com/free-legal-documents/website-terms-and-conditions)).
 
-By using LapSplit we assume you accept these terms and conditions. Do not continue to use LapSplit if you do not agree to take all of the terms and conditions stated on this page.
+By using LapSplit, you accept these terms and conditions in full. Do not continue to use LapSplit if you do not agree with all of the terms and conditions stated on this page.
 
-The following terminology applies to these Terms and Conditions and Privacy Policy: "Client", "You" and "Your" refers to you, the person using this app and compliant to the LapSplit’s terms and conditions. "The Company", "Ourselves", "We", "Our" and "Us", refers to our Company. "Party", "Parties", or "Us", refers to both the Client and ourselves. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.
+The following terminology applies to these Terms and Conditions and Privacy Policy: "You" and "Your" refers to you, the person using this app and compliant to LapSplit’s terms and conditions. "Ourselves", "We", and "Our" refers to our Company. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.
 
 ## Copyright notice
 
@@ -29,7 +29,8 @@ You must not:
 -  use our app in any way or take any action that causes, or may cause, damage to the app or
 impairment of the performance, availability, accessibility, integrity or security of the app; 
 - use our app in any way that is unlawful, illegal, fraudulent or harmful, or in connection with any unlawful, illegal, fraudulent or harmful purpose or activity;
--  hack or otherwise tamper with our app; (d) probe, scan or test the vulnerability of our app without our permission; 
+- hack or otherwise tamper with our app; 
+- probe, scan or test the vulnerability of our app without our permission; 
 - circumvent any authentication or security systems or processes on or relating to our app;
 - use our app to copy, store, host, transmit, send, use, publish or distribute any material which consists of (or is linked to) any spyware, computer virus, Trojan horse, worm, keystroke logger, rootkit or other malicious computer software;
 
