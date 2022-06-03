@@ -1,13 +1,12 @@
-
 # Terms and Conditions
 
-Welcome to LapSplit! These Terms and Conditions outline the rules and regulations for the use of the LapSplit app.
+Welcome to LapSplit Athletic Timing! These Terms and Conditions outline the rules and regulations for the use of the LapSplit Athletic Timing app.
 
 Our Terms and Conditions were created with the help of the [Terms & Conditions Generator](https://www.privacypolicyonline.com/terms-conditions-generator/). It is also based on a template from Docular ([https://seqlegal.com/free-legal-documents/website-terms-and-conditions](https://seqlegal.com/free-legal-documents/website-terms-and-conditions)).
 
-By using LapSplit, you accept these terms and conditions in full. Do not continue to use LapSplit if you do not agree with all of the terms and conditions stated on this page.
+By using LapSplit Athletic Timing (which we will shorten to simply "LapSplit"), you accept these terms and conditions in full. Do not continue to use LapSplit if you do not agree with all of the terms and conditions stated on this page.
 
-The following terminology applies to these Terms and Conditions and Privacy Policy: "You" and "Your" refers to you, the person using this app and compliant to LapSplit’s terms and conditions. "Ourselves", "We", and "Our" refers to our Company. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.
+The following terminology applies to these Terms and Conditions and Privacy Policy: Both "LapSplit Athletic Timing" and "LapSplit" refers to the LapSplit Athletic Timing app that Michael Kruppa developed and is providing free of charge. "You" and "Your" refers to you, the person using this app and compliant to LapSplit’s terms and conditions. "Ourselves", "We", and "Our" refers to our Company. Any use of the above terminology or other words in the singular, plural, capitalization and/or he/she or they, are taken as interchangeable and therefore as referring to same.
 
 ## Copyright notice
 

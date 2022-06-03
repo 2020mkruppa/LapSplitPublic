@@ -1,5 +1,5 @@
 # Privacy Policy
-LapSplit was built by Michael Kruppa as a free app with a focus on being lightweight and private, intended for use as is. This page is used to inform users regarding our policies with the collection, use, and disclosure of Personal Data if anyone decides to use our Service, the LapSplit app. Our Privacy Policy was created with the help of the [Privacy Policy Template Generator](https://www.privacypolicytemplate.net/) and [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/).
+LapSplit Athletic Timing was built by Michael Kruppa as a free app with a focus on being lightweight and private, intended for use as is. This page is used to inform users regarding our policies with the collection, use, and disclosure of Personal Data if anyone decides to use our app, LapSplit Athletic Timing (which we will shorten to simply "LapSplit"). Our Privacy Policy was created with the help of the [Privacy Policy Template Generator](https://www.privacypolicytemplate.net/) and [App Privacy Policy Generator](https://app-privacy-policy-generator.firebaseapp.com/).
 
 ## Data Collection
 LapSplit does **not**:
